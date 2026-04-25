@@ -54,20 +54,21 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHakim158&layout=compact&theme=radical" alt="Top Langs" />
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohamedHakim158&theme=radical)
 
 ---
 
 ## 📈 Most Used Languages
-
+< align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+</p>
 ---
 
 ## 📫 Connect With Me
